@@ -1,5 +1,10 @@
-https://lzjzzzzzzz.github.io/tags/index.html
+https://lzjzzzzzzz.github.io/2022/04/18/Mysql1/
 https://lzjzzzzzzz.github.io/2022/04/17/hello-world/
+https://lzjzzzzzzz.github.io/categories/index.html
+https://lzjzzzzzzz.github.io/about/index.html
+https://lzjzzzzzzz.github.io/link/index.html
+https://lzjzzzzzzz.github.io/tags/index.html
 https://lzjzzzzzzz.github.io/2022/04/17/mee/
 https://lzjzzzzzzz.github.io/
 https://lzjzzzzzzz.github.io/tags/1212/
+https://lzjzzzzzzz.github.io/tags/MySQL/
