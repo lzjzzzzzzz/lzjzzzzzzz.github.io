@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lzjzzzzzzz.github.io/2022/04/18/Mysql1/</loc>
+    
+    <lastmod>2022-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzjzzzzzzz.github.io/2022/04/23/jihe1/</loc>
     
     <lastmod>2022-04-23</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://lzjzzzzzzz.github.io/2022/04/23/Annotation/</loc>
-    
-    <lastmod>2022-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lzjzzzzzzz.github.io/2022/04/18/Mysql1/</loc>
     
     <lastmod>2022-04-23</lastmod>
     
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://lzjzzzzzzz.github.io/tags/SQL/</loc>
+    <loc>https://lzjzzzzzzz.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
