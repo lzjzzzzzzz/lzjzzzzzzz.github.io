@@ -1,9 +1,12 @@
+https://lzjzzzzzzz.github.io/2022/04/28/matiji1/
+https://lzjzzzzzzz.github.io/2022/04/27/IO1/
+https://lzjzzzzzzz.github.io/2022/04/27/generic/
+https://lzjzzzzzzz.github.io/2022/04/24/leetcode01/
+https://lzjzzzzzzz.github.io/2022/04/24/jihe2/
 https://lzjzzzzzzz.github.io/2022/04/26/leetcode02/
 https://lzjzzzzzzz.github.io/2022/04/25/jihe4/
 https://lzjzzzzzzz.github.io/2022/04/25/jihe5/
-https://lzjzzzzzzz.github.io/2022/04/24/jihe2/
 https://lzjzzzzzzz.github.io/2022/04/24/jihe3/
-https://lzjzzzzzzz.github.io/2022/04/24/leetcode01/
 https://lzjzzzzzzz.github.io/2022/04/18/Mysql1/
 https://lzjzzzzzzz.github.io/2022/04/23/jihe1/
 https://lzjzzzzzzz.github.io/2022/04/23/Annotation/
@@ -20,4 +23,4 @@ https://lzjzzzzzzz.github.io/
 https://lzjzzzzzzz.github.io/tags/1212/
 https://lzjzzzzzzz.github.io/tags/java/
 https://lzjzzzzzzz.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/
-https://lzjzzzzzzz.github.io/tags/leetcode/
+https://lzjzzzzzzz.github.io/tags/LeetCode/
