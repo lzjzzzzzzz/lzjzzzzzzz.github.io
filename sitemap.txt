@@ -1,3 +1,5 @@
+https://lzjzzzzzzz.github.io/2022/04/30/IO3/
+https://lzjzzzzzzz.github.io/2022/04/30/IO2/
 https://lzjzzzzzzz.github.io/2022/04/28/matiji1/
 https://lzjzzzzzzz.github.io/2022/04/27/IO1/
 https://lzjzzzzzzz.github.io/2022/04/27/generic/
@@ -23,4 +25,5 @@ https://lzjzzzzzzz.github.io/
 https://lzjzzzzzzz.github.io/tags/1212/
 https://lzjzzzzzzz.github.io/tags/java/
 https://lzjzzzzzzz.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/
+https://lzjzzzzzzz.github.io/tags/LeetCode/
 https://lzjzzzzzzz.github.io/tags/LeetCode/
